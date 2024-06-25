@@ -34,10 +34,6 @@ cd trabajo_final_de_master_UOC
 pip install -r requirements.txt
 ```
 
-## Results
-
-The results and evaluation metrics are stored in the `results/` directory. These include the precision, recall, and F1-score for both the GREP and LLM-RAG pipelines.
-
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
