@@ -9,8 +9,6 @@ This repository contains the code and scripts used in my final master's project,
 - `scripts/`: This directory contains all the scripts used for data preprocessing, model training, evaluation, and result visualization.
   - `grep_pipeline.sh`: Script for the GREP pipeline.
   - `llm_rag_pipeline.md`: Script for the LLM-RAG pipeline.
-- `data/`: This directory should contain the mammography report dataset in CSV format.
-- `results/`: This directory will store the output results and evaluation metrics.
 
 ## Getting Started
 
