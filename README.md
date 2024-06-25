@@ -40,6 +40,10 @@ pip install -r requirements.txt
 
 The results and evaluation metrics are stored in the `results/` directory. These include the precision, recall, and F1-score for both the GREP and LLM-RAG pipelines.
 
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
 ## Acknowledgements
 
 This project was developed as part of my final master's project at the Open University of Catalonia (UOC). Special thanks to my supervisors and the Parc de Salut Mar for providing the necessary resources and data for this study.
