@@ -27,3 +27,21 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Danidayscat/trabajo_final_de_master_UOC.git
+```
+
+### Navigate to the repository directory and install the required packages:
+
+```bash
+cd trabajo_final_de_master_UOC
+pip install -r requirements.txt
+```
+
+## Results
+
+The results and evaluation metrics are stored in the `results/` directory. These include the precision, recall, and F1-score for both the GREP and LLM-RAG pipelines.
+
+## Acknowledgements
+
+This project was developed as part of my final master's project at the Open University of Catalonia (UOC). Special thanks to my supervisors and the Parc de Salut Mar for providing the necessary resources and data for this study.
+
+
